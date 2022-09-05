@@ -89,7 +89,7 @@ function mostrarResultados() {
 }
 
 function mostrarEdad(tipo, valor) {
-  document.querySelector(`#${tipo}-edad`).textContent = valor;
+  document.querySelector("#"+tipo+"-edad").textContent = valor;
 }
 
 function obtenerEdadesIntegrantes() {

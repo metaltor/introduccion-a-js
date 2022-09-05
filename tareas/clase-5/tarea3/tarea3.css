@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+form{
+    text-align: center;
+    padding: 15px;
+    border-style: inherit;
+    border: 2px;
+    border-color: black;
+    border-radius: 5px;
+    
+}
+input{
+    width: 40px;
+}
+ul{
+    margin-left: 20px;
+}
+li{
+    font-size: 15px;
+    list-style-type: disc ;
+}

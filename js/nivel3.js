@@ -223,7 +223,7 @@
 
 // TAREA: Actualizá el valor del atributo 'src' de nuestra etiqueta 'img' a "img/kittens.jpeg".
 
-
+document.querySelector("img").src = "img/kittens.jpeg";
 
 
 
